@@ -1,5 +1,6 @@
 # Nasa_Project
 
+```csharp
 -- Deploy
 cd Nasa_19110356
 npm install
@@ -21,3 +22,12 @@ cd Nasa_19110356
 cd server
 npm install
 npm start
+```
+
+
+
+
+
+
+
+
